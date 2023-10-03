@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/Chat/static/css/main.4f51bcb3.css",
+    "main.js": "/github.io/Chat/static/js/main.2f50e552.js",
+    "index.html": "/github.io/Chat/index.html",
+    "main.4f51bcb3.css.map": "/github.io/Chat/static/css/main.4f51bcb3.css.map",
+    "main.2f50e552.js.map": "/github.io/Chat/static/js/main.2f50e552.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f51bcb3.css",
+    "static/js/main.2f50e552.js"
+  ]
+}

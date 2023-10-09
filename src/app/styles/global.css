@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #3F444A;
+    color: #FFF;
+    font-family: "Inter", sans-serif;
+}
+.line{
+    height: 16px;
+    background: linear-gradient(90deg, #6214FF -0.67%, #A659E8 100%);
+}
+.conteiner{
+    width: 619px;
+    margin: 0 auto;
+}
+main{
+    width: 619px;
+    height: 258px;
+    transform: translateY(25%);
+}
+@media (max-width: 375px) {
+.conteiner{
+    width: 352px;
+}
+main{
+    transform: translateY(10%);
+}
+}
